@@ -1,2 +1,11 @@
 /tmp/*
 *.http
+*.exe
+*.dll
+*.so
+*.dylib
+*.db
+
+*.test
+
+*.out
